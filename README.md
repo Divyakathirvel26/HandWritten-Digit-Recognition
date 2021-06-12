@@ -1,1 +1,2 @@
-# HandWritten-Digit-Recognition-
+# HandWritten-Digit-Recognition
+The dataset used is the MNIST handwritten csv dataset available on Kaggle.The Training dataset has 785 columns,the first column contains the label of the digit and the other 784 columns contains the pixel values.There are 42000 rows in the training dataset.I have used three different algorithms Naive Bayes classifier,Random Forest classifier and Artificial Neural Network (ANN) for finding the better model for running the final predictions.
